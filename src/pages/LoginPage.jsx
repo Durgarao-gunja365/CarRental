@@ -48,7 +48,7 @@ export default function LoginPage() {
 
         </p>
         <p className="text-center text-gray-500 text-sm">
-  sample Email for login: User@example.com
+  sample Email for login: user@example.com
           
         </p>
         <p className="text-center text-gray-500 text-sm">
