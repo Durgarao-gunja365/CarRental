@@ -45,6 +45,15 @@ export default function LoginPage() {
         </h2>
         <p className="text-center text-gray-500 text-sm">
           Login to your account
+
+        </p>
+        <p className="text-center text-gray-500 text-sm">
+  sample Email for login: User@example.com
+          
+        </p>
+        <p className="text-center text-gray-500 text-sm">
+          Pass: password
+          
         </p>
 
         <div className="relative">
